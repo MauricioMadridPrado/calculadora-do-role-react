@@ -1,0 +1,6 @@
+.resultado{
+    padding: 1em 1em;
+    border-radius: 2em;
+    max-width: 30%;
+    background: var(--cor-primaria);
+}

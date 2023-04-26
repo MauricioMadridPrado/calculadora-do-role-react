@@ -1,0 +1,8 @@
+.fraseComDinheiro {
+    background-color: var( --cor-terciaria);
+    font-size: 1rem;
+    padding: 0.2em;
+    text-align: center;
+    border-radius: 1.5em;
+    width: 100%
+}

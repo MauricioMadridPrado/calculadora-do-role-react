@@ -1,0 +1,38 @@
+.lista{
+    display: flex;
+    justify-content: space-evenly ;
+    width: 100%;
+}
+.lista table {
+    width: 100%;
+    margin-top: 0.5em;
+}
+.lista  th, tr,td {
+    margin-top: 1em;
+    border: 1px solid black;
+}
+.lista th,td{
+    width: 50%;
+    text-align: center;
+}
+.lista th {
+    background: var(--cor-terciaria)
+}
+.lista td {
+    background-color: var(--cor-primaria);
+}
+
+.lista tbody tr td input {
+    background-color: var(--cor-quaternaria);
+    font-weight: 700;
+    
+    border: none;
+    box-shadow: 0 0 0.2em rgba(0,0,0,0.4);
+}
+.lista tbody tr td input:hover{
+    cursor: pointer;
+    box-shadow: 0 0 0.2em rgba(255,255,255,0.4);
+}
+.lista tbody tr td input:active {
+    scale: 1.1;
+}

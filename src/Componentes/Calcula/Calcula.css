@@ -1,0 +1,15 @@
+.calcula{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 1em;
+}
+.numeroAmigos {
+    background-color: var(--cor-secundaria);
+    max-width: 5%;
+    padding: 1em 2em;
+    border-radius: 1em;
+    border: none;
+    box-shadow: 0 0 0.3em rgba(0,0,0,0.4);
+
+}

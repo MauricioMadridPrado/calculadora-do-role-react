@@ -1,0 +1,20 @@
+.botao1{
+   
+}
+.botao1 input {
+    padding: 0.5em;
+    width: 100%;
+    margin: 1em 0 0 0;
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 700;
+    text-transform: capitalize;
+    background: transparent;
+    border-radius: 2em;
+    border: none;
+    box-shadow: 0 0 1em rgba(0,0,0,0.4);
+    font-size: 1.5em;
+}
+.botao1 input:hover {
+    cursor: pointer;
+    
+}

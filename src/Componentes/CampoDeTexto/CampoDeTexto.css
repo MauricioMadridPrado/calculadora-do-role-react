@@ -1,0 +1,18 @@
+.campoDeTexto{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 0.7em;
+}
+
+.campoDeTexto label {
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+.campoDeTexto input {
+    background: transparent;
+    border: none;
+    box-shadow: 0 0 0.7em rgba(0,0,0);
+    border-radius: 0.7em;
+    height: 2em;
+}

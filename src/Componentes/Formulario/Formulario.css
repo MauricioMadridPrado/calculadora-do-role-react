@@ -1,0 +1,8 @@
+.formulario {
+    background: wheat;
+    max-width: 25%;
+    padding: 3em 2.5em;
+    border-radius: 2em;
+    box-shadow: 0 0 1em rgba(255, 255, 255, 0.7);
+
+}
